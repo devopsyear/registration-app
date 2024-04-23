@@ -33,6 +33,6 @@
 
    <h1> Thank You, Happy Learning </h1>
    <h1> See You Again </h1>
-   <h2> Contact us for more details 09612-2251265 </h1>
+   <h2> Contact us for more details 09612-2251265 </h2>
   
 </form>
