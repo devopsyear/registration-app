@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hurry!!! Register now for Devops Batch...  </h1>
+    <h1>Hurry!!! Register now for DevOps Batch...  </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -33,5 +33,6 @@
 
    <h1> Thank You, Happy Learning </h1>
    <h1> See You Again </h1>
+   <h2> Contact us for more details 09612-2251265 </h1>
   
 </form>
